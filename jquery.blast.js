@@ -469,7 +469,7 @@
         aria: true,
         debug: false
     };
-})(window.jQuery || window.Zepto, window, document);
+})(window.jQuery || window.Zepto || window.$, window, document);
 
 /*****************
    Known Issues
